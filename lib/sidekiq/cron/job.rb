@@ -1,4 +1,5 @@
 require 'fugit'
+require 'globalid'
 require 'sidekiq'
 require 'sidekiq/cron/support'
 require 'sidekiq/options'
